@@ -9,3 +9,5 @@ v is the volume in liters,
 w is the width of the tire in millimeters,
 a is the aspect ratio of the tire, and
 d is the diameter of the wheel in inches.
+
+The program prints all of those informations on the "volumes.txt" file for each entry with the current date and possibly pone number.
