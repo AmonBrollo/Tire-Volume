@@ -21,7 +21,7 @@ current_date = datetime.now()
 print(f"The approximate volume is {v:.2f} liters")
 
 wants_to_buy = input("Would you like to buy tires with the entered dimensions?(Yes/No) ")
-if wants_to_buyy.lower() == "yes":
+if wants_to_buy.lower() == "yes":
     phone_number = input("Please enter your phone number: ")
 
 with open("volumes.txt", "at") as file:
